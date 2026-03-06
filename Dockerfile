@@ -16,3 +16,4 @@ RUN pip install --no-cache-dir \
     dbt-postgres==1.10.0
 
 ENTRYPOINT ["dbt"]
+
